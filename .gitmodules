@@ -1,7 +1,3 @@
-[submodule "moodle/mod/bigbluebuttonbn"]
-	path = moodle/mod/bigbluebuttonbn
-	url = https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn.git
-	branch = master
 [submodule "moodle/mod/customcert"]
 	path = moodle/mod/customcert
 	url = https://github.com/mdjnelson/moodle-mod_customcert.git
